@@ -1,0 +1,20 @@
+2023:11:14 20:34:00	Logger: SEDFS	Level: INFO	Event: [+] SEDFS SERVER User added: root
+2023:11:14 20:34:00	Logger: SEDFS	Level: INFO	Event: [+] SEDFS SERVER User added: bob
+2023:11:14 20:34:00	Logger: SEDFS	Level: INFO	Event: [+] SEDFS SERVER User added: alice
+2023:11:14 20:34:00	Logger: SEDFS	Level: INFO	Event: [+] SEDFS SERVER User added: tompskin
+2023:11:14 20:34:00	Logger: SEDFS	Level: INFO	Event: [+] SEDFS SERVER User added: user
+2023:11:14 20:34:00	Logger: SEDFS	Level: INFO	Event: [+] SEDFS SERVER User added: main
+2023:11:14 20:34:00	Logger: pyftpdlib	Level: INFO	Event: concurrency model: async
+2023:11:14 20:34:00	Logger: pyftpdlib	Level: INFO	Event: masquerade (NAT) address: None
+2023:11:14 20:34:00	Logger: pyftpdlib	Level: INFO	Event: passive ports: None
+2023:11:14 20:34:00	Logger: pyftpdlib	Level: INFO	Event: >>> starting FTP server on 127.0.0.1:50000, pid=3318 <<<
+2023:11:14 20:34:01	Logger: SEDFS	Level: INFO	Event: [+] TCP Connection Detected: ('127.0.0.1', 50539)
+2023:11:14 20:34:01	Logger: pyftpdlib	Level: INFO	Event: 127.0.0.1:50539-[] FTP session opened (connect)
+2023:11:14 20:34:01	Logger: pyftpdlib	Level: INFO	Event: 127.0.0.1:50539-[main] USER 'main' logged in.
+2023:11:14 20:34:01	Logger: SEDFS	Level: INFO	Event: [*] Mainserver requests list of all files
+2023:11:14 20:34:01	Logger: pyftpdlib	Level: INFO	Event: 127.0.0.1:50539-[main] FTP session closed (disconnect).
+2023:11:14 20:35:29	Logger: SEDFS	Level: INFO	Event: [+] TCP Connection Detected: ('127.0.0.1', 50543)
+2023:11:14 20:35:29	Logger: pyftpdlib	Level: INFO	Event: 127.0.0.1:50543-[] FTP session opened (connect)
+2023:11:14 20:35:42	Logger: pyftpdlib	Level: INFO	Event: 127.0.0.1:50543-[tompskin] USER 'tompskin' logged in.
+2023:11:14 20:40:42	Logger: pyftpdlib	Level: INFO	Event: 127.0.0.1:50543-[tompskin] Control connection timed out.
+2023:11:14 20:40:42	Logger: pyftpdlib	Level: INFO	Event: 127.0.0.1:50543-[tompskin] FTP session closed (disconnect).

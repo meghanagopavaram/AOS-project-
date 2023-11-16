@@ -1,0 +1,23 @@
+2023:11:14 20:31:56	Logger: Main Server	Level: INFO	Event: ('[+] Main Server Started on IP:192.168.1.163 and PORT: ', 50507)
+2023:11:14 20:32:48	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:53824 REQUEST: userdata
+2023:11:14 20:32:48	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:53825 REQUEST: serverip:192.168.1.223
+2023:11:14 20:32:48	Logger: Main Server	Level: INFO	Event: Server 1 has stared on 192.168.1.223:50000
+2023:11:14 20:34:00	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.163:50537 REQUEST: userdata
+2023:11:14 20:34:00	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.163:50538 REQUEST: serverip:127.0.0.1
+2023:11:14 20:34:00	Logger: Main Server	Level: INFO	Event: Server 2 has stared on 127.0.0.1:50000
+2023:11:14 20:35:42	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.163:50545 REQUEST: getip
+2023:11:14 20:35:42	Logger: Main Server	Level: INFO	Event: [+] Active server list returned to: 192.168.1.163
+2023:11:14 20:36:58	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:53874 REQUEST: getip
+2023:11:14 20:36:58	Logger: Main Server	Level: INFO	Event: [+] Active server list returned to: 192.168.1.223
+2023:11:14 20:39:03	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:53898 REQUEST: getip
+2023:11:14 20:39:03	Logger: Main Server	Level: INFO	Event: [+] Active server list returned to: 192.168.1.223
+2023:11:14 20:40:48	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:53915 REQUEST: userdata
+2023:11:14 20:40:48	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:53916 REQUEST: serverip:192.168.1.223
+2023:11:14 20:40:48	Logger: Main Server	Level: INFO	Event: Server 2 has stared on 192.168.1.223:50000
+2023:11:14 20:42:21	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:53931 REQUEST: getip
+2023:11:14 20:42:21	Logger: Main Server	Level: INFO	Event: [+] Active server list returned to: 192.168.1.223
+2023:11:14 20:44:58	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:50080 REQUEST: userdata
+2023:11:14 20:44:58	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:50081 REQUEST: serverip:192.168.1.223
+2023:11:14 20:44:58	Logger: Main Server	Level: INFO	Event: Server 2 has stared on 192.168.1.223:50000
+2023:11:14 20:45:50	Logger: Main Server	Level: INFO	Event: [+] CLIENT: 192.168.1.223:50106 REQUEST: getip
+2023:11:14 20:45:50	Logger: Main Server	Level: INFO	Event: [+] Active server list returned to: 192.168.1.223
